@@ -1,0 +1,24 @@
+{
+"product": [
+[{"id":1,"name":"Whale, long-finned pilot","category":"Indigo"},
+{"id":2,"name":"Squirrel, smith's bush","category":"Violet"},
+{"id":3,"name":"Asiatic jackal","category":"Purple"},
+{"id":4,"name":"Lory, rainbow","category":"Yellow"},
+{"id":5,"name":"Great kiskadee","category":"Mauv"},
+{"id":6,"name":"Legaan, ground","category":"Teal"},
+{"id":7,"name":"Collared lizard","category":"Goldenrod"},
+{"id":8,"name":"Sacred ibis","category":"Aquamarine"},
+{"id":9,"name":"Mongoose, banded","category":"Pink"},
+{"id":10,"name":"Little blue penguin","category":"Violet"},
+{"id":11,"name":"Bandicoot, southern brown","category":"Puce"},
+{"id":12,"name":"Goose, egyptian","category":"Violet"},
+{"id":13,"name":"African red-eyed bulbul","category":"Aquamarine"},
+{"id":14,"name":"Southern brown bandicoot","category":"Turquoise"},
+{"id":15,"name":"White-throated kingfisher","category":"Aquamarine"},
+{"id":16,"name":"Skimmer, four-spotted","category":"Turquoise"},
+{"id":17,"name":"Antelope, four-horned","category":"Crimson"},
+{"id":18,"name":"Weaver, sociable","category":"Indigo"},
+{"id":19,"name":"Green-winged trumpeter","category":"Purple"},
+{"id":20,"name":"Dove, mourning collared","category":"Puce"}
+]
+ }
